@@ -42,6 +42,10 @@ To run the model for a particular case,
 
  ## Screenshots
 
-
+ 
+![time_analysis](https://github.com/user-attachments/assets/0a114460-17f3-4350-aa49-d7203623de20)
+![topic_analysis](https://github.com/user-attachments/assets/780eb60e-49e8-4ee7-93cc-597f404df584)
+![difficulty_level_analysis](https://github.com/user-attachments/assets/2d09e8f8-e3ca-498c-b75d-f9ce3fad8305)
+<img width="1042" alt="insights" src="https://github.com/user-attachments/assets/56594122-5e15-4074-bc64-fa0239fa6b69" />
 
 
