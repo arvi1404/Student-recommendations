@@ -40,6 +40,12 @@ To run the model for a particular case,
  python test.py
  ```
 
+---
+
+## Code walk-through : https://drive.google.com/file/d/1Id3m7_UYBx31NZkNlZr3hsnG0q77VCEm/view?usp=sharing
+
+---
+
  ## Screenshots
 
  
